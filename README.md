@@ -1,2 +1,2 @@
 # Vimrc
-My vimrc file
+My vimrc file. Use it carefully 😉.
