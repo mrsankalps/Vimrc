@@ -32,5 +32,5 @@ Plugin 'Valloric/YouCompleteMe'
 call vundle#end()
 filetype plugin indent on
 execute pathogen#infect()
-//End of the file
+
 
